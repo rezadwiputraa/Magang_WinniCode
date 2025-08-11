@@ -1,6 +1,6 @@
 <div align="center">
 
-# News_Portal
+# Portal Berita "Winniverse"
 
 ### *Empowering Innovation, Accelerating Impact, Unleashing Potential*
 
