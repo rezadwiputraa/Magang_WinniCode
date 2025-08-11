@@ -1,12 +1,12 @@
 <div align="center">
-
-# Portal Berita "Winniverse"
+  
+# MAGANG_WINNICODE
 
 ### *Empowering Innovation, Accelerating Impact, Unleashing Potential*
 
-![GitHub last commit](https://img.shields.io/github/last-commit/rezadwiputraa/News_Portal)
-![GitHub top language](https://img.shields.io/github/languages/top/rezadwiputraa/News_Portal)
-![GitHub language count](https://img.shields.io/github/languages/count/rezadwiputraa/News_Portal)
+![GitHub last commit](https://img.shields.io/github/last-commit/rezadwiputraa/Magang_WinniCode)
+![GitHub top language](https://img.shields.io/github/languages/top/rezadwiputraa/Magang_WinniCode)
+![GitHub language count](https://img.shields.io/github/languages/count/rezadwiputraa/Magang_WinniCode)
 
 ---
 
